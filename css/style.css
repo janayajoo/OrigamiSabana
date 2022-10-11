@@ -25,6 +25,8 @@ body {
     height: 100%;
     margin: 0;
     color: var(--color-grey-3);
+    font-family: "Helvetica Neue",sans-serif;
+    font-weight: lighter;
 }
 
 nav.black ul {
@@ -35,12 +37,11 @@ nav.black ul {
 nav {
     position: fixed;
     width: 100%;
-    border-style: solid;
-    border-color: var(--color-grey-4);
+
 }
 
 nav ul {
-    background-color: var(--color-grey-3);
+    /* background-color: var(--color-grey-3); */
     line-height: 1em;
     list-style: none;
     overflow: hidden;
