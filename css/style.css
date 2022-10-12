@@ -41,7 +41,7 @@ nav {
 }
 
 nav ul {
-    /* background-color: var(--color-grey-3); */
+    background-color: rgba(0, 0, 0, .2);
     line-height: 1em;
     list-style: none;
     overflow: hidden;
