@@ -133,9 +133,13 @@ nav ul li a {
     text-align: center;
     font-size: 25px;
     letter-spacing: 10px;
+    text-decoration: underline;
 
 }
 
+.video{
+    text-align: center;
+}
 
 @media(max-width: 786px) {
 
