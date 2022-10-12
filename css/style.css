@@ -84,13 +84,19 @@ nav ul li a {
     z-index: -1;
 }
 
+.fourthImage{
+    background-image:  linear-gradient(rgba(255,255,255,0.20), rgba(255,255,255,0.20)), url("https://orbinews.com/wp-content/uploads/2017/06/origami.me_.jpg");    
+    min-height: 60vh;
+    z-index: -1;
+}
+
 .lastImage{
     background-image:  linear-gradient(rgba(255,255,255,0.20), rgba(255,255,255,0.20)), url("https://www.pixelstalk.net/wp-content/uploads/2016/05/Cherry-Blossoms-and-Mount-Fuji-Japan-Wallpaper.jpg") ;
     min-height: 60vh;
     z-index: -1;
 }
 
-.firstImage, .secondImage, .thirdImage, .lastImage{
+.firstImage, .secondImage, .thirdImage, .fourthImage, .lastImage{
     position: relative;
     background-attachment: fixed;
     background-position: center;
