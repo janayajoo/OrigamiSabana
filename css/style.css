@@ -35,6 +35,8 @@ nav.black ul {
 }
 
 nav {
+    z-index: 10;
+
     position: fixed;
     width: 100%;
 
@@ -69,7 +71,6 @@ nav ul li a {
     background-image: linear-gradient(rgba(255,255,255,0.20), rgba(255,255,255,0.20)), url("https://wallup.net/wp-content/uploads/2017/11/17/213646-origami-paper_cranes.jpg") ;
     min-height: 100vh;
     z-index: -1;
-
 }
 
 .secondImage{
@@ -140,19 +141,20 @@ nav ul li a {
     font-size: 25px;
     letter-spacing: 10px;
     text-decoration: underline;
-
 }
+
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
     background-color: transparent;
     width: 15vw;
     height: 15vh;
-    border: 1px solid #f1f1f1;
+    /* border: 0.25vh solid #f1f1f1; */
     border-radius: 2vh;
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
   }
 
   .imgPeople {
+    border: 0.25vh solid #f1f1f1;
     border-radius: 2vh;
     width: 100%;
     height: 100%;
@@ -194,10 +196,13 @@ nav ul li a {
   
   /* Style the back side */
   .flip-card-back {
-    background-color: dodgerblue;
-    color: white;
-    transform: rotateY(180deg);
+    background-color: var(--color-white);
+    color: var(--color-black);
+    transform: rotateY(180deg); 
+   
   }
+
+
 
 
 .video{
