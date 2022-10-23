@@ -86,7 +86,13 @@ nav ul li a {
 }
 
 .fourthImage{
-    background-image:  linear-gradient(rgba(255,255,255,0.20), rgba(255,255,255,0.20)), url("https://orbinews.com/wp-content/uploads/2017/06/origami.me_.jpg");    
+    background:  linear-gradient(rgba(255,255,255,0.20), rgba(255,255,255,0.20)), url("../img/grullasEstud.jpeg");
+    min-height: 60vh;
+    z-index: -1;
+}
+
+.fifthImage{
+    background:  linear-gradient(rgba(255,255,255,0.20), rgba(255,255,255,0.20)), url("../img/grullasEstud3.jpeg");
     min-height: 60vh;
     z-index: -1;
 }
@@ -97,7 +103,7 @@ nav ul li a {
     z-index: -1;
 }
 
-.firstImage, .secondImage, .thirdImage, .fourthImage, .lastImage{
+.firstImage, .secondImage, .thirdImage, .fourthImage, .fifthImage, .lastImage{
     position: relative;
     background-attachment: fixed;
     background-position: center;
