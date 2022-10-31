@@ -203,6 +203,8 @@ nav ul li a {
   /* Style the back side */
   .flip-card-back {
     padding-top: 2vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
     background-color: var(--color-white);
     color: var(--color-black);
     transform: rotateY(180deg); 
