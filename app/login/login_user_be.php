@@ -3,17 +3,17 @@
     session_start(); //Init session
     include '../../assets/database/connection_db_be.php';
 
-    $e_mail = $_POST['e_mail'];
+    $user = $_POST['usered'];
     $passwords = $_POST['passwords'];
     $passwords = hash('sha512', $passwords);
 
-    $checker_login = mysqli_query($connection, "SELECT * FROM users WHERE e_mail = '$e_mail' and passwords = '$passwords'");
+    $checker_login = mysqli_query($connection, "SELECT * FROM users WHERE user = '$user' and passwords = '$passwords'");
 
     if(mysqli_num_rows($checker_login)>0){
         
-        $_SESSION['user'] = $correo; //Save the user session on cache
+        $_SESSION['user'] = $user; //Save the user session on cache
 
-        header("location: ../../index.html");
+        header("location: ../../index.php");
         exit();
     }
     else{

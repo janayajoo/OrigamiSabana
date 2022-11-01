@@ -3,7 +3,7 @@
     include '../../assets/database/connection_db_be.php';
 
     //Get data from HTML's textfields
-    $user = $_POST['user'];
+    $user = $_POST['usered'];
     $e_mail = $_POST['e_mail'];
     $passwords = $_POST['passwords'];
     //Password encryption
@@ -71,13 +71,15 @@
     if($start){
         echo '
             <script>
-                window.location ="../../index.html";
+                alert("¡Registrado correctamente!");
+                window.location ="../../index.php";
             </script>
         ';
     }
     else{
         echo 
             '<script> 
+                alert("Algo salió mal :c");
                 window.location ="../../app/login/login.php"; 
             </script>
         ';

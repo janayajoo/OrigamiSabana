@@ -1,9 +1,3 @@
-<?php
-
-
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -37,7 +31,8 @@
                         <li><a href="#miembros">Miembros</a></li>
                         <li><a href="#aliados">Aliados Estrategicos</a></li>
                         <li><a href="#contact">Contacto</a></li>
-                        <li><a href="./app/login/login.php">¡Inicia Sesión!</a></li>
+                        <li><a href="./app/login/login.php" class="btn_login">¡Inicia Sesión!</a></li>
+                        <li><a href="./app/login/close_session_be.php">Cerrar sesión</a></li>
                     </ul>
                 </div>
             </nav>
@@ -512,6 +507,7 @@
     </div>
 
     <!--FORUM-->
+    <a href="./app/php/index_forum.php"><button>Foro</button></a>
 
 
     <!-- Footer -->

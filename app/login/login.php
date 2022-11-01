@@ -3,7 +3,7 @@
   session_start();
 
   if(isset($_SESSION['user'])){
-    header("location: ../../index.html");
+    header("location: ../../index.php");
   }
 
 ?>
@@ -34,7 +34,7 @@
             <h2 class="title">¡Ingresa!</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="Nombre de Usuario" name="user"/>
+              <input type="text" placeholder="Nombre de Usuario" name="usered"/>
             </div>
             <div class="input-field">
               <i class="fas fa-lock"></i>
@@ -64,7 +64,7 @@
             <h2 class="title">¡Iniciemos!</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="Nombre de Usuario" name="user"/>
+              <input type="text" placeholder="Nombre de Usuario" name="usered"/>
             </div>
             <div class="input-field">
               <i class="fas fa-envelope"></i>
