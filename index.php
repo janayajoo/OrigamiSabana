@@ -1,3 +1,9 @@
+<?php
+
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -31,6 +37,7 @@
                         <li><a href="#miembros">Miembros</a></li>
                         <li><a href="#aliados">Aliados Estrategicos</a></li>
                         <li><a href="#contact">Contacto</a></li>
+                        <li><a href="./app/login/login.php">¡Inicia Sesión!</a></li>
                     </ul>
                 </div>
             </nav>

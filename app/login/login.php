@@ -1,11 +1,9 @@
 <?php
 
-  include '../../assets/database/connection_db_be.php';
-
   session_start();
 
-  if(isset($_SESSION['usuario'])){
-      header("location: ./../index.html")
+  if(isset($_SESSION['user'])){
+    header("location: ../../index.html");
   }
 
 ?>
@@ -30,60 +28,67 @@
     <div class="container">
       <div class="forms-container">
         <div class="signin-signup">
-          <form action="#" class="sign-in-form">
+
+          <!--Login-->
+          <form action="../login/login_user_be.php" method="POST" class="sign-in-form">
             <h2 class="title">¡Ingresa!</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="Username" />
+              <input type="text" placeholder="Nombre de Usuario" name="user"/>
             </div>
             <div class="input-field">
               <i class="fas fa-lock"></i>
-              <input type="password" placeholder="Password" />
+              <input type="password" placeholder="Contraseña" name="passwords" />
             </div>
             <input type="submit" value="¡De vuelta!" class="btn solid" />
+
             <p class="social-text">¿Quieres ver nuestras redes?</p>
             <div class="social-media">
-              <a href="#" class="social-icon">
+              <a href="../../404.html" class="social-icon">
                 <i class="fab fa-facebook-f"></i>
               </a>
-              <a href="#" class="social-icon">
+              <a href="../../404.html" class="social-icon">
                 <i class="fab fa-twitter"></i>
               </a>
-              <a href="#" class="social-icon">
+              <a href="../../404.html" class="social-icon">
                 <i class="fab fa-google"></i>
               </a>
-              <a href="#" class="social-icon">
+              <a href="../../404.html" class="social-icon">
                 <i class="fab fa-linkedin-in"></i>
               </a>
             </div>
           </form>
-          <form action="#" class="sign-up-form">
+
+          <!--Register-->
+          <form action="../login/register_user_be.php" method="POST" class="sign-up-form">
             <h2 class="title">¡Iniciemos!</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="Username" />
+              <input type="text" placeholder="Nombre de Usuario" name="user"/>
             </div>
             <div class="input-field">
               <i class="fas fa-envelope"></i>
-              <input type="email" placeholder="Email" />
+              <input type="email" placeholder="Correo Electrónico" name="e_mail" />
             </div>
             <div class="input-field">
               <i class="fas fa-lock"></i>
-              <input type="password" placeholder="Password" />
+              <input type="password" placeholder="Contraseña" name="passwords" />
             </div>
             <input type="submit" class="btn" value="¡Creemos juntos!" />
+
+
             <p class="social-text">¿Quieres ver nuestras redes?</p>
             <div class="social-media">
-              <a href="#" class="social-icon">
+              <a href="../../404.html" class="social-icon">
                 <i class="fab fa-facebook-f"></i>
               </a>
-              <a href="#" class="social-icon">
+              <a href="../../404.html" class="social-icon">
                 <i class="fab fa-twitter"></i>
               </a>
-              <a href="#" class="social-icon">
+              <a href="../../404.html" class="social-icon">
                 <i class="fab fa-google"></i>
               </a>
-              <a href="#" class="social-icon">
+              <a href="../../404.html" class="social-icon">
                 <i class="fab fa-linkedin-in"></i>
               </a>
             </div>
