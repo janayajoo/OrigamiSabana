@@ -5,8 +5,8 @@
 html {
     font-size: 14px;
     font-family: 'Titillium Web', sans-serif;
-    background-color: rgb(0, 0, 0);
-    color: #FEFEFE;
+    background-color: antiquewhite;
+    color: #2C2C2C;
 }
 
 a {
@@ -33,7 +33,7 @@ h1 {
 }
 
 .subforum-title {
-    background-color: #292B2E;
+    background-color: #ffffff;
     padding: 5px;
     border-radius: 5px;
     margin: 4px;
@@ -48,7 +48,7 @@ h1 {
     padding: 10px;
     margin: 4px;
     border-radius: 5px;
-    background-color: #111314;
+    background-color: #ffffff;
 }
 
 .subforum-description * {
@@ -86,7 +86,7 @@ h1 {
         display: block;
         border: 0;
         height: 1px;
-        background-image: linear-gradient(to right, rgba(190, 190, 190, 0), rgba(255, 255, 255, 0.75), rgba(190, 190, 190, 0));
+        background-image: linear-gradient(to right, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75));
     }
 }
 
@@ -129,7 +129,7 @@ header {
 }
 
 .navigation {
-    background-color: #52057b;
+    background-color: #ffffff;
     padding: 10px;
     width: 65%;
     display: inline-block;
@@ -215,12 +215,12 @@ header {
 /* Search Box styles */
 
 .search-box {
-    border: solid 1px #52057b;
+    border: solid 1px #636363;
     margin-top: 20px;
     padding: 40px;
     display: flex;
     justify-content: center;
-    box-shadow: 1px 2px 3px #52057b;
+    box-shadow: 1px 2px 3px #767676;
 }
 
 .search-box select {
@@ -260,7 +260,7 @@ header {
 
 .forum-info {
     padding: 20px;
-    background-color: #111314;
+    background-color: #ffffff;
 }
 
 .chart {
@@ -274,7 +274,7 @@ header {
 footer {
     margin-top: 20px;
     padding: 20px;
-    background-color: #52057b;
+    background-color: #ffffff;
     display: block;
     text-align: center;
 }

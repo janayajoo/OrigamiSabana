@@ -33,23 +33,23 @@ session_start();
             <nav class="navigation hide" id="navigation">
                 <span class="close-icon" id="close-icon" onclick="showIconBar()"><i class="fa fa-close"></i></span>
                 <ul class="nav-list">
-                    <li class="nav-item"><a href="forums.html">Forums</a></li>
-                    <li class="nav-item"><a href="posts.html">Posts</a></li>
-                    <li class="nav-item"><a href="detail.html">Detail</a></li>
+                    <li class="nav-item"><a href="forums.php">Forums</a></li>
+                    <li class="nav-item"><a href="posts.php">Posts</a></li>
+                    <li class="nav-item"><a href="detail.php">Detail</a></li>
                 </ul>
             </nav>
             <a class="bar-icon" id="iconBar" onclick="hideIconBar()"><i class="fa fa-bars"></i></a>
-            <div class="brand">My Forum</div>
+            <div class="brand">Foro Grullas Unisabana</div>
         </div>
         <!--SearchBox Section-->
         <div class="search-box">
             <div>
                 <select name="" id="">
-                    <option value="Everything">Everything</option>
-                    <option value="Titles">Titles</option>
-                    <option value="Descriptions">Descriptions</option>
+                    <option value="Everything">Todos</option>
+                    <option value="Titles">Título</option>
+                    <option value="Descriptions">Descripción</option>
                 </select>
-                <input type="text" name="q" placeholder="search ...">
+                <input type="text" name="q" placeholder="Buscar...">
                 <button><i class="fa fa-search"></i></button>
             </div>
         </div>
@@ -256,8 +256,8 @@ session_start();
     </div>
 
     <footer>
-        <span>&copy;  Selmi Abderrahim | All Rights Reserved</span>
+        <span>&copy; 2022 Universidad de La Sabana</span>
     </footer>
-    <script src="main.js"></script>
+    <script src="../../assets/js/scriptForum.js"></script>
 </body>
 </html>
