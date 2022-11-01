@@ -18,6 +18,7 @@ How to initialize the project locally? (SET UP)
     A. Clone the repository inside your ide.
     Open your IDE terminal or preferred text editor and type: "git clone https://github.com/janayajoo/OrigamiSabana.git".
     B.Install XAMMP.
+    
         B.1. Download the installer "https://www.apachefriends.org/download.html".
 
         B.2. Open a terminal window (menu Applications > Accessoris > Terminal)
@@ -30,7 +31,7 @@ How to initialize the project locally? (SET UP)
 
         B.6. To stop the servers, type the command: "sudo /opt/lampp/lampp stop".
 
-        To stop and restart the servers, type the command: "sudo /opt/lampp/lampp restart".
+        B.7. To stop and restart the servers, type the command: "sudo /opt/lampp/lampp restart".
 
         B.8. To open the control panel, type the command: "sudo /opt/lampp/share/xampp-control-panel/xampp-control-panel".
 
