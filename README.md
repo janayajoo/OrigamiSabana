@@ -31,7 +31,7 @@ How to initialize the project locally? (SET UP)
 
         B.6. To stop the servers, type the command: "sudo /opt/lampp/lampp stop".
 
-        To stop and restart the servers, type the command: "sudo /opt/lampp/lampp restart".
+        B.7. To stop and restart the servers, type the command: "sudo /opt/lampp/lampp restart".
 
         B.8. To open the control panel, type the command: "sudo /opt/lampp/share/xampp-control-panel/xampp-control-panel".
 
