@@ -522,19 +522,19 @@
 
             <!-- Right -->
             <div>
-                <a href="./404.html" class="me-4 link-secondary">
+                <a href="./404.php" class="me-4 link-secondary">
                     <i class="fab fa-facebook-f"></i>
                 </a>
-                <a href="./404.html" class="me-4 link-secondary">
+                <a href="./404.php" class="me-4 link-secondary">
                     <i class="fab fa-twitter"></i>
                 </a>
                 <!-- <a href="" class="me-4 link-secondary">
             <i class="fab fa-google"></i>
             </a> -->
-                <a href="./404.html" class="me-4 link-secondary">
+                <a href="./404.php" class="me-4 link-secondary">
                     <i class="fab fa-instagram"></i>
                 </a>
-                <a href="./404.html" class="me-4 link-secondary">
+                <a href="./404.php" class="me-4 link-secondary">
                     <i class="fab fa-linkedin"></i>
                 </a>
                 <!-- <a href="" class="me-4 link-secondary">

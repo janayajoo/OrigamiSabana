@@ -38,7 +38,7 @@
                     <div class="col-md-auto col-ml-auto">
                         <h1 class="display-4 fw-bold " data-aos="fade-up"><span style="color: orange;">404:</span> página no encontrada</h1>
                         <h4 data-aos=" fade-up" data-aos-delay="100" class="mt-3 mb-5">¡Estamos trabajando en brindarte lo mejor de nosotros!</h4>
-                        <div class="centrarboton" data-aos="fade-up" data-aos-delay="200"><a href="./index.html" class="text-center btn2 btn-home" style="text-decoration: none;">Volver al inicio</a>
+                        <div class="centrarboton" data-aos="fade-up" data-aos-delay="200"><a href="./index.php" class="text-center btn2 btn-home" style="text-decoration: none;">Volver al inicio</a>
                         </div>
                     </div>
                 </div>
@@ -50,8 +50,8 @@
         <div class="footersimple fixed-bottom">
             <footer class="footie py-4">
                 <div class="social align-self-end">
-                    <a href="./404.html" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="./404.html" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+                    <a href="./404.php" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="./404.php" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
                     <br>
                     <p class="copyright"> © 2022 Grupo de grullas</p>
 

@@ -44,16 +44,16 @@
 
             <p class="social-text">¿Quieres ver nuestras redes?</p>
             <div class="social-media">
-              <a href="../../404.html" class="social-icon">
+              <a href="../../404.php" class="social-icon">
                 <i class="fab fa-facebook-f"></i>
               </a>
-              <a href="../../404.html" class="social-icon">
+              <a href="../../404.php" class="social-icon">
                 <i class="fab fa-twitter"></i>
               </a>
-              <a href="../../404.html" class="social-icon">
+              <a href="../../404.php" class="social-icon">
                 <i class="fab fa-google"></i>
               </a>
-              <a href="../../404.html" class="social-icon">
+              <a href="../../404.php" class="social-icon">
                 <i class="fab fa-linkedin-in"></i>
               </a>
             </div>
@@ -79,16 +79,16 @@
 
             <p class="social-text">¿Quieres ver nuestras redes?</p>
             <div class="social-media">
-              <a href="../../404.html" class="social-icon">
+              <a href="../../404.php" class="social-icon">
                 <i class="fab fa-facebook-f"></i>
               </a>
-              <a href="../../404.html" class="social-icon">
+              <a href="../../404.php" class="social-icon">
                 <i class="fab fa-twitter"></i>
               </a>
-              <a href="../../404.html" class="social-icon">
+              <a href="../../404.php" class="social-icon">
                 <i class="fab fa-google"></i>
               </a>
-              <a href="../../404.html" class="social-icon">
+              <a href="../../404.php" class="social-icon">
                 <i class="fab fa-linkedin-in"></i>
               </a>
             </div>
