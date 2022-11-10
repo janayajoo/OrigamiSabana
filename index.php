@@ -271,32 +271,33 @@
     <div class="info" id="miembros">
         <div class="video border-style">
             <p class="titles">Miembros Fundadores</p>
+
+            Doblar papel solos es tomar unos minutos de reflexión, es como una oración personal en la cual entregas respeto hacia el papel y el te permite que lo moldees para crear una figura por medio de los dobleces. Yo le recomendaría a quien dese hacer origami que, en cada figura, ponga una intención, ponga un deseo, ponga parte de su corazón y su voluntad, luego lo regale. La gran mayoría de personas aparentemente apreciaran ese tipo de regalos, muchos me han hecho saber que han sentido alegría y paz en su ser, tal vez la misma paz de quien doblo la figura inicialmente, entonces ahí hay equilibrio.
+
+            <br>
+            <br>
+
+            Doblar papel juntos es saber que no estamos solos, que en el conocimiento hay un poco para todos, y que podemos compartir nuestra fortaleza y nuestra debilidad de forma segura, sin miedo ni vergüenza alguna, pues hace parte del crecimiento de las personas en la comunidad solidaria, doblar papel juntos nos ayuda a compartir lo mejor que podemos hacer en determinado momento, inclusive nos ayuda a aprender a perdonar, recuerden que siempre podremos devolvernos unos cuantos pasos para corregir algo que pareciera ser no salió bien. Pero no siempre es necesario, pue recuerden que lo perfecto es enemigo de lo bueno, entonces cuando hayan aprendido a doblar papel, enseñen, porque si se puede, es fácil y lo vamos a lograr, con Fé y un toquecito de suerte. 
+
+            <br>
+            <br>
+
+            A todos gracias, de ustedes miembros fundadores del club de grullitas (Club de origami), recibí un soplo de esperanza, pues cuando la fuerza decae con el tiempo y nos hacemos viejos, necesitamos ayuda (Si, sus maestros también, tuvieron maestros) y son ustedes los más jóvenes quienes están llamados a brillar, con ese brillo que siempre ha estado ahí, solo crean es ustedes mismos y sigan siendo atan inteligentes como sea posible, como profesionales y como personas.
+
+            <br>
+            <br>
+
             <div class="row row-cols-1 row-cols-md-5 g-4">
 
                 <div class="col">
                     <div class="flip-card">
                         <div class="flip-card-inner">
                             <div class="flip-card-front">
-                                <img src="./assets/img/Integrantes/" alt="Avatar" class="imgPeople">
-                                <!--PENDING-->
+                                <img src="./assets/img/Integrantes/Juan Pablo Franco Rubio.jpeg" alt="Avatar" class="imgPeople">
                             </div>
                             <div class="flip-card-back">
-                                <h5>John Doe</h5>
-                                <p>Architect & Engineer</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col">
-                    <div class="flip-card">
-                        <div class="flip-card-inner">
-                            <div class="flip-card-front">
-                                <img src="./assets/img/paso1.jpeg" alt="Avatar" class="imgPeople">
-                            </div>
-                            <div class="flip-card-back">
-                                <h5>John Doe</h5>
-                                <p>Architect & Engineer</p>
+                                <h5>Juan Pablo Franco Rubio</h5>
+                                <p>Maestro fundador del grupo</p>
                             </div>
                         </div>
                     </div>
@@ -495,9 +496,83 @@
     </div>
 
     <div class="about" id="aliados">
-        <div class="border-style">
-            <p class="titles">Aliados Estrategicos</p>
+      <div class="border-style">
+          <p class="titles">Aliados Estrategicos</p>
+          <div class="row row-cols-1 row-cols-2 g-4">
+            <div class="col">
+                <div class="row g-0">
+                    <div class="col-md-8">
+                      <div class="card-body">
+                        <h5 class="card-title">Facultad de Ingeniería – Universidad de la Sabana.
+                        </h5>
+                        <h6><p class="card-text">Jenny Robayo Gómez</p></h6>
+                        <a href="https://www.unisabana.edu.co/programas/unidades-academicas/facultad-de-ingenieria/nuestro-equipo/">Facultad Ingenieria</a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="row g-0">
+                    <div class="col-md-8">
+                      <div class="card-body">
+                        <h5 class="card-title">Dirección de estudiantes, Facultad de Ingeniería.
+                        </h5>
+                        <h6><p class="card-text">Carlos Mario Montes Jiménez</p></h6>
+                        <a href="https://www.unisabana.edu.co/direccion-central-de-estudiantes/contacto-del-equipo-en-pregrado-y-posgrado/direccion-de-estudiantes-pregrado/">Direccion de estudiantes</a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="row g-0">
+                    <div class="col-md-8">
+                      <div class="card-body">
+                        <h5 class="card-title">Licenciatura en ciencias naturales, Facultad de Educación 
+                        </h5>
+                        <h6><p class="card-text">Carlos Humberto Barreto Tovar</p></h6>
+                        <a href="https://www.unisabana.edu.co/programas/carreras/facultad-de-educacion/licenciatura-en-ciencias-naturales/nuestro-equipo/">Licenciatura en Ciencias Naturales</a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+              <div class="row g-0">
+                  <div class="col-md-8">
+                    <div class="card-body">
+                      <h5 class="card-title">Centro de tecnologías para la Academia – Universidad de la Sabana.
+                      </h5>
+                      <h6><p class="card-text">Lina Paola Sorza Rodríguez</p></h6>
+                      <a href="https://www.unisabana.edu.co/intersemestrales/portafolio-de-cursos/centro-de-tecnologias-para-la-academia/">Centro de Tecnologías para la Academia</a>
+                    </div>
+                  </div>
+              </div>
+          </div>
+          <div class="col">
+            <div class="row g-0">
+                <div class="col-md-8">
+                  <div class="card-body">
+                    <h5 class="card-title">HUB de emprendimento – Universidad de la Sabana.
+                    </h5>
+                    <!-- <p class="card-text">Lina Paola Sorza Rodríguez</p> -->
+                    <a href="https://www.unisabana.edu.co/empresaysociedad/unisabana-hub/unisabana-hub/">HUB de Emprendimento</a>
+                  </div>
+                </div>
+            </div>
         </div>
+        <div class="col">
+          <div class="row g-0">
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h5 class="card-title">Pasajeros de papel (Fabricación de papeles especiales para origami en Colombia)
+                  </h5>
+                  <h6><p class="card-text">Johana Guayambuco</p></h6>
+                  <a href="https://www.pasajerosdepapel.com/papeles.html">Pasajeros de Papel</a>
+                </div>
+              </div>
+          </div>
+      </div>
+        </div>
+      </div>
     </div>
 
     <div class="lastImage">

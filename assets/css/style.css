@@ -211,6 +211,13 @@ nav ul li a {
    
   }
 
+  .col-md-8{
+    width: 100%;
+  }
+
+  a{
+    color: var(--color-white);
+  }
 
 
 
