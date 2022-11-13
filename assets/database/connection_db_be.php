@@ -1,6 +1,6 @@
 <?php 
 
-    $connection = mysqli_connect("localhost", "root", "", "forumsabana"); //connection_method, user, password, database_name
+    $connection = mysqli_connect("localhost", "root", "0228", "forumsabana"); //connection_method, user, password, database_name
 
     //Guard conditional for check the connection with MySQL
     /*
