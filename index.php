@@ -74,7 +74,7 @@
                                     <h5 class="card-title">Visión:</h5>
                                     <p class="card-text">Queremos convertirnos en un grupo oficial de representación de la Universidad de La Sabana, que genere autosostenibilidad y un impacto social positivo tanto dentro de nuestra comunidad universitaria como en la zona
                                         de influencia de la institución en el marco de la ciencia, la tecnología, la ingeniería y las matemáticas (STEM). A partir del arte del origami, queremos formar alianzas estratégicas con diferentes entidades para
-                                        colaborar en el desarrollo de proyectos y eventos tales como talleres de origami, participación en ferias, la búsqueda de la obtención de un récord Guinness y, eventualmente, el envío de uno o más representantes
+                                        colaborar en el desarrollo de proyectos y eventos tales como talleres de origami, participación en ferias, la búsqueda de la obtención del récord Guinness de mayor cantidad de personas doblando grullas de origami simultáneamente y, eventualmente, poder financiar el viaje de uno o más representantes
                                         del grupo a la celebración del Día de la Paz en Hiroshima.
                                     </p>
                                 </div>
